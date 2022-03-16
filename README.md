@@ -31,7 +31,7 @@ This is where you'll get different information about each of the features in you
 **Create data dictionary**
 
 1. age - age in years
-2. sex - (1 = male; 0 = female)
+2. gender - (1 = male; 0 = female)
 3. cp - chest pain type
     * 0: Typical angina: chest pain related decrease blood supply to the heart
     * 1: Atypical angina: chest pain not related to heart
